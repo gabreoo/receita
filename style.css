@@ -1,0 +1,42 @@
+body {
+  background-image: url(assets/bg.jpg);
+  background-size: cover; 
+}
+:root {
+  font-family: "Alice", serif;
+  line-height: 150%;
+  color: #573A37;
+  font-size: 16px;
+}
+#page{ 
+  box-sizing: border-box;
+  width: 800px;
+  padding: 24px;
+  background-color: antiquewhite;
+  border-radius: 24px;
+  margin: auto;
+}
+img {
+  border-radius: 16px;
+}
+h1{
+  line-height: 150%;
+  font-size: 40px;
+  margin-bottom: 4px;
+}
+h2{
+  line-height: 150%;
+  font-size: 24px;
+}
+h1,h2{
+  color: #573A37;
+  margin-bottom: 12px;
+  line-height: 150%;
+}
+#about p + p {
+  margin-top: 12px;
+}
+#about h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
