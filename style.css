@@ -40,3 +40,14 @@ h1,h2{
   margin-top: 0px;
   margin-bottom: 0px;
 }
+footer{
+  text-align: center;
+  padding-bottom: 48px;
+  color: #F0E8C2;
+  margin-top: 48px;
+}
+
+footer img {
+  vertical-align: middle;
+
+}
